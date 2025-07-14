@@ -4,6 +4,3 @@ numpy
 matplotlib
 ta
 python-telegram-bot
-MetaTrader5
-schedule
-python-dotenv
